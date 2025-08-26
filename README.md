@@ -1,4 +1,4 @@
-##Clustering Project for ML
+## Clustering Project for ML
 
 ### Project Overview
   - This project explores clustering analysis of various methods and compares their performance on a chosen dataset.
